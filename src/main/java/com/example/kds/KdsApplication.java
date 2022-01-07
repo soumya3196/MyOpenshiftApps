@@ -12,7 +12,7 @@ public class KdsApplication {
 	@GetMapping
 	public String Msg()
 	{
-		return  "This is  Springboot deployment to Openshift by soumya";
+		return  "Hello Soumya !!!";
 		
 	}
 
