@@ -12,7 +12,7 @@ public class KdsApplication {
 	@GetMapping
 	public String Msg()
 	{
-		return  "Hello Soumya !!!";
+		return  "Hello Soumya !!";
 		
 	}
 
